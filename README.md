@@ -5,7 +5,7 @@
 
 ✨ Apaixonada por criar soluções eficientes e elegantes.  
 
-💡 Skills: <strong>Node.js, TypeScript, Python, REST APIs, Banco de Dados</strong>.  
+💡 Skills: <strong>Node.js, TypeScript, JavaScript, Python,  Banco de Dados</strong>.  
 
 🌐 Buscando sempre inovar e crescer na área de tecnologia.
 </p>
