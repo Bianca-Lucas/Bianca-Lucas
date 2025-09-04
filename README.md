@@ -2,8 +2,11 @@
 
 <p align="left"> 
 👩‍💻 Oi, eu sou <strong>Bianca Lucas</strong>, 18 anos, <strong> Back-End Developer Junior</strong>.  
+
 ✨ Apaixonada por criar soluções eficientes e elegantes.  
+
 💡 Skills: <strong>Node.js, TypeScript, Python, REST APIs, Banco de Dados</strong>.  
+
 🌐 Buscando sempre inovar e crescer na área de tecnologia.
 </p>
 
