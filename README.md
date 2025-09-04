@@ -8,7 +8,7 @@
 </p>
 
 
-⚡🚀 Linguagens:
+## ⚡🚀 Linguagens:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
@@ -17,7 +17,7 @@
 
 
 
- 💼 Ferramentas & Plataformas:
+## 💼 Ferramentas & Plataformas:
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
@@ -26,7 +26,36 @@
 </p>
 
 
-💌 Vamos Conversar?
+## ⚙️ GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bianca-Lucas&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-Lucas&theme=dark&layout=compact&hide_border=false&count_private=true" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bianca-Lucas&theme=dark&hide_border=false" alt="GitHub Streak" width="45%"/>
+</p>
+<p align="left">
+  
+</p>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="Repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Bianca-Lucas&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+
+
+## 💌 Vamos Conversar?
 <p align="left">
   Entre em contato comigo através dos links abaixo ⤵️
 </p>
