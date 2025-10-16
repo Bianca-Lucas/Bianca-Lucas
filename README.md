@@ -28,7 +28,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Bianca-Lucas&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-Lucas&theme=dark&layout=compact&hide_border=false&count_private=true" alt="Top Languages" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bianca-Lucas&theme=dark&hide_border=false" alt="GitHub Streak" width="45%"/>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bianca-Lucas&theme=dark&hide_border=false)
+
 </p>
 <p align="left">
   
